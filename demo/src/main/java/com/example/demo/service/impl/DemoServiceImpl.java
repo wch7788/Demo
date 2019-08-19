@@ -2,7 +2,7 @@ package com.example.demo.service.impl;
 
 import com.example.demo.bean.User;
 import com.example.demo.exception.UserException;
-import com.example.demo.mapper.DemoMapper;
+import com.example.demo.mapper.mapper1.DemoMapper;
 import com.example.demo.service.DemoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
